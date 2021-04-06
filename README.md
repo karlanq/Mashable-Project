@@ -1,1 +1,7 @@
 # Mashable-Project
+
+Mashable is an American culture, tech, science and [social good](https://en.wikipedia.org/wiki/Social_good) [digital media](https://en.wikipedia.org/wiki/Digital_media) platform, news website and multi-platform media and entertainment company. It won the 1st International Open Web Awards to recognize the best online communities and services on 27 November 2007. 
+
+Mashable has more than 6,000,000 twitter followers and over 3,200,000 fans on Facebook.Mashable has many channels to provide diversified online services such as video, entertainment, culture, tech, science and social good. In these years, Mashable also has a huge user group from Twitter and Facebook, meanwhile, there are numerous resources on the website. Users with different interests, races and nationalities are surfing Mashable everyday.
+
+We are a start-up company which wants to create a platform for news and media service. At this time, we do not know which kinds of articles and news should we focus on. In addition, we also want to understand what determines the popularity. What’s more, we also need to decide the target customers for our platform. As a result, we want to analyze the popularity of different articles of Mashale to improve our company services’ exposure and ensure our products can be viewed by more people.
